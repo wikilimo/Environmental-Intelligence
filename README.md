@@ -42,6 +42,7 @@ Below, is a non exhaustive megalist of relevant datasets and databases that cove
 * [AI for Earth, Microsoft](https://www.microsoft.com/en-us/ai/ai-for-earth)
 * [The Humanitarian Data Exchange](https://data.humdata.org/): Find, share and use humanitarian data all in one place
 * [Climate Data Guide by UCAR](https://climatedataguide.ucar.edu/): Analyse and compare 211 data sets covering the Atmosphere, Ocean, Land and more.
+* [Pangeo ML Data](http://mldata.pangeo.io/)
 
 
 ## Earth Observation
